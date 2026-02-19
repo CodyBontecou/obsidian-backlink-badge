@@ -1,0 +1,10 @@
+{
+  "id": "backlink-badge",
+  "name": "Backlink Badge",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Shows a superscript badge after each [[wikilink]] in reading mode with the number of backlinks to that note.",
+  "author": "Cody Bontecou",
+  "authorUrl": "https://github.com/CodyBontecou",
+  "isDesktopOnly": false
+}

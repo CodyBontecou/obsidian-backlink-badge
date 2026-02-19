@@ -1,0 +1,19 @@
+/* Backlink Badge – default styling */
+.backlink-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.65em;
+  font-weight: 600;
+  line-height: 1;
+  vertical-align: super;
+  min-width: 1.1em;
+  padding: 0.1em 0.35em;
+  margin-left: 1px;
+  border-radius: 9999px;
+  background-color: var(--interactive-accent);
+  color: var(--text-on-accent);
+  opacity: 0.85;
+  pointer-events: none;
+  user-select: none;
+}
