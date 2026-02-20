@@ -63,6 +63,11 @@ npm run dev    # watch mode (auto-rebuild on save)
 npm run build  # production build
 ```
 
+
+## Inspiration
+
+This plugin was built in response to a request by u/JellyBOMB in [this Reddit thread](https://www.reddit.com/r/ObsidianMD/comments/1r8vw0w/anyone_have_a_plugin_request/) — a minimal backlink count badge on wikilinks.
+
 ## License
 
 MIT
